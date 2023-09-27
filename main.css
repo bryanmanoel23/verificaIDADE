@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(to right, blue,rgb(98, 180, 247),white);
+}
+
+header {
+    color:white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    padding: 12px;
+    width:500px;
+    box-shadow: 3px 3px 10px black;
+    margin:auto;
+}
+
+footer {
+    color:white;
+    text-align: center;
+    font: normal 15pt arial;
+}
+
+img {
+    width:100%;
+}
+
+#res {
+    padding: 8px;
+}
